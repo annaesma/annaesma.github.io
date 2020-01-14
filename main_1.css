@@ -70,7 +70,7 @@ a:after {
 /* Header Wrap */
 .header {
   background: #1CBCAD;
-  background: url(https://annaesma.github.io./root/data.jpg) ;
+  background: url("https://images.pexels.com/photos/346796/pexels-photo-346796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260.jpg") ;
 opacity: 0.4;
   -webkit-background-size: cover;
   -moz-background-size: cover;
