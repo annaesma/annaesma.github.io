@@ -192,7 +192,7 @@ sm {
 body {
   /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
   -webkit-backface-visibility: hidden;
-background: url(../images/data.jpg) no-repeat center top;
+background: url(./data.jpg) no-repeat center top;
 }
 
 .animated {
