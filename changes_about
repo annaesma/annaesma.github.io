@@ -63,8 +63,8 @@ nav ul li a {
 
 
   filter: progid:DXImageTransform.Microsoft.gradient(
-    startColorstr=’#cdeb8e’,
-    endColorstr=’#b0ca34',GradientType=0 ); /* IE6-9 */
+    startColorstr=â€™#cdeb8eâ€™,
+    endColorstr=â€™#b0ca34',GradientType=0 ); /* IE6-9 */
   }
 .centered-wrapper {
     position: relative;
